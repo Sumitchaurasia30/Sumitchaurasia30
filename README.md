@@ -1,34 +1,25 @@
-Hi there, I'm Sumit Kumar Chaurasia 👋
-Welcome to my profile! I'm a passionate PHP Developer with a strong background in web development and a love for creating dynamic, user-friendly web applications. Below, you'll find a bit more about me, my skills, and the projects I've worked on.
+Hi  I'm Sumit Kumar Chaurasia 
+Welcome to my profile! I'm a passionate MERN Stack Developer with a strong background in React.js , NOde.js , Express.js & MongoDB and a love for creating dynamic, user-friendly web applications. Below, you'll find a bit more about me, my skills, and the projects I've worked on.
 
 🔧 Technical Skills
-Programming Languages:
 
-PHP, JavaScript, HTML, CSS
-Frameworks and Libraries:
+FrontEnd:
+HTML , CSS , JavaScript , Typescript , React.js
 
-Laravel
+BackEnd
+Node.js , Express.js
+
 Databases:
+MongoDB , SQL
 
-MySQL, PostgreSQL, SQLite
 Tools and Platforms:
 
-Git, GitHub, GitLab.
+Git, GitHub, Vscode , Netlify.
 
-API Integration:
-
-RESTful APIs, SOAP APIs
-Testing and Debugging:
-
-PHPUnit
-Others:
-
-Linux/Unix, Bash scripting
-Cloud Platforms: AWS, Google Cloud.
 
 💬 Let's Connect
-Email: sumitmchaurasia30@gmail.com
-LinkedIn: www.linkedin.com/in/sumit-kumar-chaurasia-51bb09288
+Email: sumitmchaurasia@gmail.com
+LinkedIn: www.linkedin.com/in/sumit-kumar-chaurasia-11a5821a7
 GitHub: https://github.com/Sumitchaurasia30/Sumitchaurasia30
 Feel free to reach out if you have any questions, need collaboration, or just want to chat about technology and development. I'm always open to new opportunities and challenges.
 
