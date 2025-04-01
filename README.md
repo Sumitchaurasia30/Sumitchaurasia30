@@ -1,13 +1,14 @@
 Hi  I'm Sumit Kumar Chaurasia 
-Welcome to my profile! I'm a passionate MERN Stack Developer with a strong background in React.js , NOde.js , Express.js & MongoDB and a love for creating dynamic, user-friendly web applications. Below, you'll find a bit more about me, my skills, and the projects I've worked on.
+
+Welcome to my profile! I'm a passionate MERN Stack Developer with a strong background in React.js , Node.js , Express.js & MongoDB and a love for creating dynamic, user-friendly web applications. Below, you'll find a bit more about me, my skills, and the projects I've worked on.
 
 🔧 Technical Skills
 
 FrontEnd:
-HTML , CSS , JavaScript , Typescript , React.js
+  HTML , CSS , JavaScript , Typescript , React.js
 
-BackEnd
-Node.js , Express.js
+BackEnd : 
+   Node.js , Express.js
 
 Databases:
 MongoDB , SQL
